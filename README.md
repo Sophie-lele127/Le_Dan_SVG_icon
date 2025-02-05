@@ -1,10 +1,10 @@
-# Le_Dan_HW1_Fruit_World
+# Le_Dan_HW1_SWERVE_Fruit_World
 **Project Overview:**
-  A set of interactive SVG icons designed for the Fruit World website
-  Responsive Design: mobile, tablet, and desktop.
-  CSS Interactions: Hover Effects
-  JavaScript Interactivity: Displays fruit ID when clicked.
-  
+  A set of interactive SVG icons designed for the SWERVE Fruit World website
+ 
+  CSS Interactions: Hover Effects for fruit icons.
+  Click Events: JJavaScript function: Displays fruit ID when clicked.
+
 **Folder Structure**
 Le_Dan_HW1_Fruit_World
   + index.html
@@ -16,3 +16,7 @@ Le_Dan_HW1_Fruit_World
   + images/ 
         + SVG icons like banana.svg, orange.svg,  
   + README.md
+    
+**Github**
+Main branch for deployment.
+Design and development branches for feature implementation.
