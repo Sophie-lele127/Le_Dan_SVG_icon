@@ -3,7 +3,7 @@
   A set of interactive SVG icons designed for the SWERVE Fruit World website
  
   CSS Interactions: Hover Effects for fruit icons.
-  Click Events: JJavaScript function: Displays fruit ID when clicked.
+  JavaScript function: Displays fruit ID when clicked.
 
 **Folder Structure**
 Le_Dan_HW1_Fruit_World
@@ -19,4 +19,5 @@ Le_Dan_HW1_Fruit_World
     
 **Github**
 Main branch for deployment.
-Design and development branches for feature implementation.
+Design and development branches for implement.
+
